@@ -2,7 +2,7 @@
 # run command in terminal:
 # pyinstaller --onefile update.py
 
-# code by Chat GPT 3.5
+# code by Chat GPT 3.5 and 4o
 
 import subprocess
 from datetime import datetime
