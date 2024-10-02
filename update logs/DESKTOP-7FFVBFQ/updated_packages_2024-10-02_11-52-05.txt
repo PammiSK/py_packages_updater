@@ -1,0 +1,66 @@
+Package update log for DESKTOP-7FFVBFQ on 2024-10-02_11-52-05
+============================================================
+
+pip is already up to date.
+
+57 package(s) to update:
+
+Updated aiohttp from 3.9.5 to 3.10.8
+Updated attrs from 23.2.0 to 24.2.0
+Updated certifi from 2024.7.4 to 2024.8.30
+Updated contourpy from 1.2.1 to 1.3.0
+Updated datasets from 2.20.0 to 3.0.1
+Updated debugpy from 1.8.2 to 1.8.6
+Updated dill from 0.3.8 to 0.3.9
+Updated executing from 2.0.1 to 2.1.0
+Updated filelock from 3.15.4 to 3.16.1
+Updated fonttools from 4.53.1 to 4.54.1
+Updated fsspec from 2024.5.0 to 2024.9.0
+Updated grpcio from 1.65.1 to 1.66.2
+Updated h5py from 3.11.0 to 3.12.1
+Updated huggingface-hub from 0.24.2 to 0.25.1
+Updated idna from 3.7 to 3.10
+Updated ipython from 8.26.0 to 8.27.0
+Updated jupyter_client from 8.6.2 to 8.6.3
+Updated keras from 3.4.1 to 3.5.0
+Updated kiwisolver from 1.4.5 to 1.4.7
+Updated Markdown from 3.6 to 3.7
+Updated matplotlib from 3.9.1 to 3.9.2
+Updated ml-dtypes from 0.4.0 to 0.5.0
+Updated multidict from 6.0.5 to 6.1.0
+Updated multiprocess from 0.70.16 to 0.70.17
+Updated nltk from 3.8.1 to 3.9.1
+Updated numpy from 1.26.4 to 2.1.1
+Updated opt-einsum from 3.3.0 to 3.4.0
+Updated pandas from 2.2.2 to 2.2.3
+Updated platformdirs from 4.2.2 to 4.3.6
+Updated prompt_toolkit from 3.0.47 to 3.0.48
+Updated protobuf from 4.25.4 to 5.28.2
+Updated pydantic_core from 2.20.1 to 2.24.0
+Updated pyparsing from 3.1.2 to 3.1.4
+Updated pytz from 2024.1 to 2024.2
+Updated PyYAML from 6.0.1 to 6.0.2
+Updated pyzmq from 26.0.3 to 26.2.0
+Updated regex from 2024.7.24 to 2024.9.11
+Updated rich from 13.7.1 to 13.9.1
+Updated safetensors from 0.4.3 to 0.4.5
+Updated scikit-learn from 1.5.1 to 1.5.2
+Updated scipy from 1.14.0 to 1.14.1
+Updated setuptools from 71.1.0 to 75.1.0
+Updated sympy from 1.13.1 to 1.13.3
+Updated tensorboard from 2.17.0 to 2.18.0
+Updated tifffile from 2024.7.24 to 2024.9.20
+Updated tokenizers from 0.19.1 to 0.20.0
+Updated torch from 2.4.0 to 2.4.1
+Updated torchaudio from 2.4.0 to 2.4.1
+Updated torchvision from 0.19.0 to 0.19.1
+Updated tqdm from 4.66.4 to 4.66.5
+Updated transformers from 4.43.3 to 4.45.1
+Updated tzdata from 2024.1 to 2024.2
+Updated urllib3 from 2.2.2 to 2.2.3
+Updated Werkzeug from 3.0.3 to 3.0.4
+Updated wheel from 0.43.0 to 0.44.0
+Updated xxhash from 3.4.1 to 3.5.0
+Updated yarl from 1.9.4 to 1.13.1
+
+All packages on DESKTOP-7FFVBFQ are now up to date as of 2024-10-02_11-52-05.

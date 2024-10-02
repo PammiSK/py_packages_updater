@@ -1,0 +1,10 @@
+DESKTOP-72S89KU has 9 package updates (excluding pip).debugpy==1.8.2
+gast==0.5.5
+intel-openmp==2024.2.0
+keras==3.4.1
+mkl==2024.2.0
+ml-dtypes==0.4.0
+numpy==2.0.0
+protobuf==5.27.2
+tensorboard==2.17.0
+All packages in DESKTOP-72S89KU are now up to date as of 27-06-24  21_17_27.
